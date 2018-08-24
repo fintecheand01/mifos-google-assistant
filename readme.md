@@ -9,5 +9,5 @@ This project uses Google Assistant and Mifos for shows you your bank information
 
 ### Current tech stack:
 - Actions on Google
-- Dialogflow - Definiciones de conversación y entendimiento de lenguaje natural
-- Firebase - Funciones en la nube y bases de datos en tiempo real
+- Dialogflow - Conversation definitions and natural language understanding
+- Firebase - Cloud Functions and Realtime Database - app backend 
