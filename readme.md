@@ -12,6 +12,10 @@ https://docs.google.com/document/d/1T3Yif9YrgHZg4Uo4A2RkRNndJtzRsbmJHHO1dyle5Us/
 
 # Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 https://www.cnbv.gob.mx/TRANSPARENCIA/Documents/LEY%20GENERAL%20DE%20PROTECCI%C3%93N%20DE%20DATOS%20P%C3%89RSONALES[1].pdf
+
+# Ley Fintech
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF_090318.pdf
+
 ### Current tech stack:
 - Actions on Google
 - Dialogflow - Conversation definitions and natural language understanding
