@@ -7,6 +7,9 @@ Track your daily money saving with Google Assistant and voice interfaces.
 
 This project uses Google Assistant and Mifos for manage  your bank account such as add or remove money, pay for services, ask for a loan, check your account balance and much more.
 
+# OPEN BANKING APIS
+https://docs.google.com/document/d/1T3Yif9YrgHZg4Uo4A2RkRNndJtzRsbmJHHO1dyle5Us/edit
+
 ### Current tech stack:
 - Actions on Google
 - Dialogflow - Conversation definitions and natural language understanding
