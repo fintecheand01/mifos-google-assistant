@@ -19,6 +19,7 @@ This project uses Google Assistant and Mifos for manage  your bank account such 
 *1. Create a Google Actions*
 ```
 - Sign in with a Google account
+![alt text](https://raw.githubusercontent.com/fintecheando/mifos-google-assistant/master/Images/Google%20actions/1-Google%20actions.png)
 - Go to Actions Console
 - Add project
 - Enter project name and choose the language and region for the project
