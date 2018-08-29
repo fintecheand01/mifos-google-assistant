@@ -10,6 +10,8 @@ This project uses Google Assistant and Mifos for manage  your bank account such 
 # OPEN BANKING APIS
 https://docs.google.com/document/d/1T3Yif9YrgHZg4Uo4A2RkRNndJtzRsbmJHHO1dyle5Us/edit
 
+# Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+https://www.cnbv.gob.mx/TRANSPARENCIA/Documents/LEY%20GENERAL%20DE%20PROTECCI%C3%93N%20DE%20DATOS%20P%C3%89RSONALES[1].pdf
 ### Current tech stack:
 - Actions on Google
 - Dialogflow - Conversation definitions and natural language understanding
