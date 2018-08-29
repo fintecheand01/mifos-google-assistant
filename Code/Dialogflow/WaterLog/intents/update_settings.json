@@ -1,0 +1,29 @@
+{
+  "id": "3a53433e-407e-4a11-84ab-235975a9683e",
+  "name": "update_settings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "update_settings",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509890949787,
+  "fallbackIntent": false,
+  "events": []
+}

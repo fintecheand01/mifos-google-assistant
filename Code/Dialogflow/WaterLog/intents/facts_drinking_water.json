@@ -1,0 +1,29 @@
+{
+  "id": "ab8f1ef2-fdb9-443e-9065-eafdc83e11b2",
+  "name": "facts_drinking_water",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "facts_drinking_water",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511976670,
+  "fallbackIntent": false,
+  "events": []
+}
