@@ -16,16 +16,6 @@ class Conversation {
     actionWelcomeUser() {
         return this.userManager.isFirstUsage(this._getCurrentUserId())
             .then(isFirstUsage => {
-                switch (input.getLocale()) {
-                    case es:
-                    day = "Hola!";
-                    break;
-                    case es-la:
-                    day = "Ke Petsss!";
-                    break;
-                    default:
-                    day = "Hello!";
-                    }
                 if (isFirstUsage) {
                     this.userManager.saveAssistantUser(this._getCurrentUserId());
                     this._greetNewUser();
