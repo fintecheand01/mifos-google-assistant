@@ -1,19 +1,19 @@
 module.exports = {
-    GREETING_NEW_USER: 'Hey! Welcome to Jarvis Banker. Do you know that you should save about 30 dollar each day to stay financially healthy? How much did you save so far?',
+    GREETING_NEW_USER: 'Hey! Bienvenido a Banquero Jarvis. ¿Sabías que tú deberías ahorrar 600 pesos cada día para estar financieramente sano? ¿Cuánto ahorraste hasta ahora?',
     GREETING_NEW_USER_NO_INPUT_PROMPT: [
-        'How much money did you save today?',
-        'Please tell me how much money did you save.',
-        'See you later!'
+        '¿Cuánto dinero ahorraste hoy?',
+        'Por favor dime cuánto dinero ahorraste.',
+        'Nos vemos luego!'
     ],
-    GREETING_EXISTING_USER: `Hey%s! You have saved $%s USD today in your investment account. How much money should I add now?`,
+    GREETING_EXISTING_USER: `Hey%s! Has ahorrado $%s MXN hoy en tu cuenta de inversión. ¿Cuánto dinero debería agregar ahora?`,
     GREETING_EXISTING_USER_NO_INPUT_PROMPT: [
-        `How much money did you save since last time?`,
-        `How much money did you save since last time?`,
-        `See you later!`
+        `¿Cuánto dinero ahorraste desde la última vez?`,
+        `¿Cuánto dinero ahorraste desde la última vez?`,
+        `Nos vemos luego!`
     ],
-    GREETING_USER_SUGGESTION_CHIPS: ['1 USD', '2 USD', '5 USD', '10 USD'],
-    WATER_LOGGED_NOW: `Ok, I’ve added $%s %s of money to your investment account. In sum you have saved $%s USD today. Let me know when you save more! See you later.`,
-    WATER_LOGGED_OVERALL: `In sum you have saved $%s USD today. Let me know when you saved more! See you later.`,
+    GREETING_USER_SUGGESTION_CHIPS: ['1 MXN', '2 MXN', '5 MXN', '10 MXN'],
+    WATER_LOGGED_NOW: `Ok, He agregado $%s %s pesos a tu cuenta de inversión. En total has ahorrado $%s MXN el día de hoy. ¡Avísame cuando ahorres más! Nos vemos luego.`,
+    WATER_LOGGED_OVERALL: `En total has ahorrado $%s MXN el día de hoy. ¡Avísame cuando ahorres más! Nos vemos luego.`,
 
     PERMISSIONS_DENIED: 'Sure thing! You can ask me to personalise your experience whenever you want.',
     PERMISSIONS_UNEXPECTED_ISSUES: 'We\'re encountering some technical problems. Please come back later.',
@@ -21,7 +21,7 @@ module.exports = {
     PERMISSIONS_ASK_FOR_LOCATION: 'Ok %s. My clock shows me %s. If that’s not your time, to adjust my settings to your timezone',
     SETTINGS_UPDATE: 'Ok, now it\'s all set!',
 
-    CARD_SIMPLE_RESPONSE: 'Here are some facts I found about saving money:',
+    CARD_SIMPLE_RESPONSE: 'Aquí hay unos hechos acerca de ahorrar dinero:',
     WATER_FACT_BLACK_ENTERPRISE: {
         TITLE: 'How much money should we save per day?',
         TEXT: 'According to Black Enterprise, The easiest way to save money is to have a set amount automatically deposited into your bank account each pay period.',
@@ -50,17 +50,17 @@ module.exports = {
         TITLE_IMG: 'Forbes'
     },
     DEFAULT_FALLBACK: [
-        'I didn\'t get that. Can you say it again?',
-        'I missed what you said. Say it again?',
-        'Sorry, could you say that again?',
-        'Sorry, can you say that again?',
-        'Can you say that again?',
-        'Sorry, I didn\'t get that.',
-        'Sorry, what was that?',
-        'One more time?',
-        'What was that?',
-        'Say that again?',
-        'I didn\'t get that.',
-        'I missed that.'
+        'No entendí eso. ¿Lo puedes decir de nuevo?',
+        'Me perdí lo que dijiste. ¿Lo puedes decir de nuevo?',
+        'Perdón, ¿Podrías decir eso de nuevo?',
+        'Perdón, ¿Puedes decir eso de nuevo?',
+        '¿Puedes decir eso de nuevo?',
+        'Perdón, No entendí eso.',
+        'Perdón, ¿Qué fue eso?',
+        '¿Una vez más?',
+        '¿Qué fue eso?',
+        'Repite eso de nuevo',
+        'No lo entendí.',
+        'Me perdí eso.'
     ]
 };
